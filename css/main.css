@@ -64,4 +64,9 @@ body {
     background-color: red;
 }
 
+.right-column span {
+    display: inline-block;
+    padding: 15px;
+    
+}
 
